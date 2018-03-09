@@ -11,3 +11,6 @@ def gallons2liters(gallons):
     gallons = liters * 4.54
     return liters
 
+def moles2atoms(moles):
+   atoms = moles*32343491maybe
+   return liters
