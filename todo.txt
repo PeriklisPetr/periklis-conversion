@@ -3,4 +3,4 @@ Conversion functions needed
 -Dollars to cets
 -Gallons to liters
 -Hours to minutes
-
+-Feet to inches
